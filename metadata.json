@@ -1,0 +1,6 @@
+{
+  "name": "CivicLens AI",
+  "description": "AI-powered open-source community issue reporting and civic complaint analysis platform for Lucknow and civic bodies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
